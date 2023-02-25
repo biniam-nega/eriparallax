@@ -1,0 +1,15 @@
+body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", sans-serif}
+@font-face{
+  font-family: "SSS";
+  src: url('../fonts/sss.ttf');
+}
+
+.logo{
+  font-family: "SSS";
+  font-size: 450%;
+  text-align: center;
+}
+
+#error{
+  
+}

@@ -1,0 +1,14 @@
+@font-face{
+  font-family: "SSS";
+  src: url('../fonts/sss.ttf');
+}
+
+body,h1,h2,h3,h4,h5,h6 {
+  font-family: "Raleway", sans-serif
+}
+
+.logo{
+  font-family: "SSS";
+  font-size: 170%;
+  text-align: center;
+}
